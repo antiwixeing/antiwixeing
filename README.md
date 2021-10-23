@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antiwixeing
 - 👀 I’m interested in gis
 - 🌱 I’m currently learning to write a paper
-- 💞️ I’m looking to collaborate on machine learning
+- 💞️ I’m looking to collaborate on augment reality
 - 📫 W 
 
 <!---
